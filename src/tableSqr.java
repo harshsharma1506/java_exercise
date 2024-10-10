@@ -1,6 +1,6 @@
 class tableSqr{
-	public void sqr( int lim  ) { 
-		int eng = 0;
+	public void sqr( int lim  ) {  // user to give the limit
+    	int eng = 0; 
 		while( eng < lim ) {
 			eng += 1;
 			int sqr_holder = eng * eng;
@@ -8,7 +8,8 @@ class tableSqr{
 		}
 	}
 	public static void main( String[] args) {
-        int test_arg = 12;
+        final int test_arg = 12; // with final you can define a constant 
+    //    test_arg = 7;   
         tableSqr obj = new tableSqr();
         obj.sqr(test_arg);
 	}
