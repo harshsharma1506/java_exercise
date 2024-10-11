@@ -51,5 +51,19 @@ PS - No support for pointers
 8. Multithreaded - Basically we have this built in class called Thread which we extend and then each thread becomes an independent piece of code which can be executed simultaneously, 
 9. Extensibility and Dynamic - Extensibility is via using your own class and methods, extensions. Dynamic is with the help of native functions , native functions are functions written in C / C++ which can be called by Java program .
 
+## Java Character Set 
+
+The character set is a set of alphabets, letters and some special characters that are valid in Java language.
+The smallest unit of Java language is the characters needed to write java tokens.
+These characters are defined by Unicode character set.
+
+## Tokens in Java  
+
+The Java compiler breaks the line of code into text (words) is called Java tokens. 
+These are the smallest element of the Java program. The Java compiler identifies these words as tokens. 
+
+![image](https://github.com/user-attachments/assets/ec7a7352-72e9-418c-9cd2-3c0ff881966d)
+
+
 
 
