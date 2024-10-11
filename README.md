@@ -34,20 +34,22 @@ Components necessary for JAVA -
 
 ## Features of JAVA 
 PS - No support for pointers
-	1. Simple 
-	2. Secure - because of encapsulation and no use of pointers 
-	3. Robust 
-	4. Platform independent / Architectural Neutral 
-	5. Object Oriented 
-		a. Inheritance ( Child class / Parent class )
-		b. Polymorphism ( Many forms , a guy is a father , employee and a husband )
-		c. Abstraction ( Having a bigger picture with no insights, but once extended , we make the plan )
-		d. Encapsulation ( Hiding data from MFs )
-	6. Performance - has garbage collection activity, enabled by Built - in class GC, which helps in improving the overall runtime of the program. 
-	7. Distributed - Supports RMI ( Remote Method Invocation ) for ex - lets say in your Enterprise landscape you have 2 systems one is RM other MR , from a program written in system - RM, you can call a 
-                         program written in MR using RMI, if you are an ABAPer it is just like RFC :)
-	8. Multithreaded - Basically we have this built in class called Thread which we extend and then each thread becomes an independent piece of code which can be executed simultaneously, 
-	9. Extensibility and Dynamic - Extensibility is via using your own class and methods, extensions. Dynamic is with the help of native functions , native functions are functions written in C / C++ which can 
-                                       be called by Java program .
+
+Features of JAVA 
+PS - No support for pointers
+1. Simple
+2. Secure - because of encapsulation and no use of pointers 
+3. Robust 
+4. Platform independent / Architectural Neutral 
+5. Object Oriented 
+	a. Inheritance ( Child class / Parent class )
+	b. Polymorphism ( Many forms , a guy is a father , employee and a husband )
+	c. Abstraction ( Having a bigger picture with no insights, but once extended , we make the plan )
+	d. Encapsulation ( Hiding data from MFs )
+6. Performance - has garbage collection activity, enabled by Built - in class GC, which helps in improving the overall runtime of the program. 
+7. Distributed - Supports RMI ( Remote Method Invocation ) for ex - lets say in your Enterprise landscape you have 2 systems one is RM other MR , from a program written in system - RM, you can call a program written in MR using RMI, if you are an ABAPer it is just like RFC :)
+8. Multithreaded - Basically we have this built in class called Thread which we extend and then each thread becomes an independent piece of code which can be executed simultaneously, 
+9. Extensibility and Dynamic - Extensibility is via using your own class and methods, extensions. Dynamic is with the help of native functions , native functions are functions written in C / C++ which can be called by Java program .
+
 
 
