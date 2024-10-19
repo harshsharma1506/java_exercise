@@ -90,4 +90,12 @@ An integer constant , can be negative or positive, if there is no sign specified
 
 ![image](https://github.com/user-attachments/assets/a9d6e968-f4bb-4b3d-887f-ce41c774236d)
 
+Constants and variables are location in memory to hold data. Constants hold values that can never be changed. But variables on the other end, contain values that can be changed.
+
+2 types of data types - 
+
+1. Primitive - These are the data types which are pre defined in a language and have a specified length.
+2. Non primitive - These are the data types which are not defined in the programming langauge but are created by programmer
+
+
 
