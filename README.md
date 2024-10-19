@@ -79,5 +79,15 @@ Two type of contants -
 ![image](https://github.com/user-attachments/assets/23785a34-117a-4208-9abb-b477120b6fc1)
 
 
+Integer constants - are values that won't change and it will always be negative or positive number values. 
+
+Example - 
+1. Decimal - contains numbers from 0 to 9
+2. Octal - contains numbers from 0 to 7
+3. Hexadecimal - alphanumeric contains numbers from 0 to 9 and characters / alphabets from A to F 
+
+An integer constant , can be negative or positive, if there is no sign specified then it is treated as positive. It can never have a fractional value like ( 0.5 , 0.7, 1.17, etc )
+
+![image](https://github.com/user-attachments/assets/a9d6e968-f4bb-4b3d-887f-ce41c774236d)
 
 
