@@ -64,6 +64,17 @@ These are the smallest element of the Java program. The Java compiler identifie
 
 ![image](https://github.com/user-attachments/assets/ec7a7352-72e9-418c-9cd2-3c0ff881966d)
 
+## Constants in Java 
+
+Two type of contants - 
+1. Numeric constants which further are divided into 
+   a. Integer ( positive and negative numbers ) 
+   b. Real    ( float and double , basically fractionals )
+
+2. Non Numeric constants , these are further divided into
+   a. Characters - max length is 1, and values are enclosed within single 
+      apostrophe
+   b. Strings - values are enclose within double quotes
 
 
 
