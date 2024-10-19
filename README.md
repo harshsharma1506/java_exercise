@@ -97,6 +97,9 @@ Constants and variables are location in memory to hold data. Constants hold valu
 1. Primitive - These are the data types which are pre defined in a language and have a specified length.
 2. Non primitive - These are the data types which are not defined in the programming langauge but are created by programmer
 
+![image](https://github.com/user-attachments/assets/a221faf6-d627-4a2a-a4a1-a9ec66a78436)
+
+
 ```java
 class test{
 	public static void main( String[] args) {
